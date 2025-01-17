@@ -3,12 +3,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Labeeba Sayed>`
+- **CCID:** `<lsayed>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+[1] https://www.youtube.com/watch?v=Eiw5kRObUS0&ab_channel=Randomcode
+[2] https://stuff.mit.edu/afs/sipb/project/android/docs/guide/topics/ui/controls/text.html
+[3] https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/how-to-add-and-remove-items-with-the-windows-forms-listview-control?view=netframeworkdesktop-4.8
 
 ## Verbal Collaboration
 
